@@ -145,6 +145,7 @@
 
 ## IDEs
 
+- [Alchemist Coder](https://github.com/Alekla0126/alchemist-coder) - Desktop workspace for coding agents such as Claude Code and Codex, with a live tree of agents and subagents, parallel runs in git worktrees, a code editor, a terminal and a searchable history of past sessions. Available as AppImage and .deb. 👏
 - [Android Studio](https://developer.android.com/studio/index.html) - The fastest tools for building apps on every type of Android device.
 - [CLion](https://www.jetbrains.com/clion/) - Cross-platform IDE for C and C++.
 - [DataGrip](https://www.jetbrains.com/datagrip/) - Many databases, one tool.
